@@ -13,8 +13,8 @@
 
 
                              🐍 My Contributions 🐍
-![image](https://github.com/user-attachments/assets/72ea8b49-319b-4ca6-9caa-0080e4bccf35)
 
+[github-contribution-grid-snake (2)](https://raw.githubusercontent.com/AnujTiwari-Student/AnujTiwari-Student/output/github-contribution-grid-snake.svg)
 <!---
 MyGithubWebsites/MyGithubWebsites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
