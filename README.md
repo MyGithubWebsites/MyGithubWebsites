@@ -6,7 +6,14 @@
                 🌱 I’m currently learning AWS & React-native
                   💞️ I’m looking to collaborate on any new project
                      📫 Reach me at tiuser@gmail.com
-                        
+
+                        ⚒️ Languages-Frameworks-Tools ⚒️
+
+ ![image](https://github.com/user-attachments/assets/242d7e8b-62f3-402f-b667-5295546cdad3)
+
+
+                             🐍 My Contributions 🐍
+![image](https://github.com/user-attachments/assets/72ea8b49-319b-4ca6-9caa-0080e4bccf35)
 
 <!---
 MyGithubWebsites/MyGithubWebsites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
